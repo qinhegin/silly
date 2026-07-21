@@ -1,12 +1,12 @@
 {
     "display_name": "抽卡系统",
-    "loading_order": 0,
+    "loading_order": 100,
     "requires": [],
     "optional": [],
     "js": "index.js",
     "css": "",
     "author": "请喝琴酒吧",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "homePage": "",
     "auto_update": false
 }
